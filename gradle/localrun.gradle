@@ -1,0 +1,4 @@
+task localRun(type: JavaExec) {
+    main = "io.github.hkusu.kotlinlambdaapp.LocalRunKt"
+    classpath = sourceSets.main.runtimeClasspath
+}
