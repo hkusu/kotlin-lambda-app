@@ -1,0 +1,14 @@
+[
+  {
+    "jira_id": "hkusu",
+    "slack_id": "h_kusu"
+  },
+  {
+    "jira_id": "hoge",
+    "slack_id": "h_kusu"
+  },
+  {
+    "jira_id": "fuga",
+    "slack_id": "h_kusu"
+  }
+]
