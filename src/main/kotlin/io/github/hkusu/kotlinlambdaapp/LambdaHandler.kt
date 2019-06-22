@@ -6,7 +6,7 @@ import kotlinx.coroutines.*
 import java.lang.Exception
 import java.io.FileInputStream
 
-private const val ACCOUNT_SETTINGS_FILE_PATH = "data/AccountSettings.json"
+private const val ACCOUNT_SETTINGS_FILE_PATH = "data/account_settings.json"
 
 class LambdaHandler: RequestHandler<LambdaInput, LambdaOutput> {
 
